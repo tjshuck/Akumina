@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Akumina</title>
+    <link>https://tjshuck.github.io/Akumina/</link>
+    <description>Latest updates and posts</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2025 14:00:00 +0000</lastBuildDate>
+
+    <!-- Example Post 1 -->
+    <item>
+      <title>Voice Page Building</title>
+      <link>https://github.com/tjshuck/Akumina/blob/main/VoicePageBuilder.pdf</link>
+      <pubDate>Tue, 02 Jul 2025 10:00:00 +0000</pubDate>
+      <description>Learn how to build pages in Voice interface.</description>
+    </item>
+
+    <!-- Example Post 2 -->
+    <item>
+      <title>More Voice Page building</title>
+      <link>https://github.com/tjshuck/Akumina/blob/main/VoicePageBuilderMore.pdf</link>
+      <pubDate>Wed, 03 Jul 2025 09:00:00 +0000</pubDate>
+      <description>Additional information on building Voice Pages.</description>
+    </item>
+
+    
+    <!-- Example Post 3 -->
+    <item>
+      <title>More Voice Page Variations</title>
+      <link>https://github.com/tjshuck/Akumina/blob/main/VoicePageVariations.pdf</link>
+      <pubDate>Wed, 03 Jul 2025 09:00:00 +0000</pubDate>
+      <description> Build Persona Page Variations with Voice interface</description>
+    </item>
+
+  </channel>
+</rss>
